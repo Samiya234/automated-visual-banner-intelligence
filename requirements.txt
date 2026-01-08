@@ -1,0 +1,7 @@
+pip install -raiohttp==3.9.5
+playwright==1.49.0
+asyncio==3.4.3
+python-dotenv==1.0.1
+Pillow==10.3.0
+google-generativeai==0.8.0
+requests==2.32.3
